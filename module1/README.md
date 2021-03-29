@@ -152,6 +152,11 @@ cat SRR12447392.length-preTrimmed.txt
 ```
 *Note: We are processing the reads here as paired, but you could generate a histogram for each pair separately.*     
 
+Output: 
+
+![image](https://user-images.githubusercontent.com/19209239/112876398-7b68f380-9093-11eb-8b3d-10deb840aba3.png)
+
+
 > Are the majority of the reads in your expected range?  
 Why is the number of reads bigger than what is reported in the fastqc report?  
 <br>  
